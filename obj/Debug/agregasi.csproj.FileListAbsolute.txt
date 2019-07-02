@@ -1,0 +1,6 @@
+c:\Users\amikom\source\repos\asosiasi\agregasi\obj\Debug\agregasi.csproj.CoreCompileInputs.cache
+c:\Users\amikom\source\repos\asosiasi\agregasi\bin\Debug\agregasi.exe.config
+c:\Users\amikom\source\repos\asosiasi\agregasi\bin\Debug\agregasi.exe
+c:\Users\amikom\source\repos\asosiasi\agregasi\bin\Debug\agregasi.pdb
+c:\Users\amikom\source\repos\asosiasi\agregasi\obj\Debug\agregasi.exe
+c:\Users\amikom\source\repos\asosiasi\agregasi\obj\Debug\agregasi.pdb
